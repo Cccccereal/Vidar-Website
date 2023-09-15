@@ -55,6 +55,13 @@ export default [
     url: "https://fcrumbling.github.io/",
   },
   {
+    id:"Cereal",
+    intro:"22级 / 慢吞吞misc / web学习中",
+    avatar:
+      "https://q1.qlogo.cn/g?b=qq&nk=2218220159&s=640",
+      url:"#",
+  },
+  {
     id: "daidr",
     intro: "21级 / 前端练习生",
     avatar:
